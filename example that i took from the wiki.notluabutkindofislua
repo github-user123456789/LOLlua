@@ -1,0 +1,11 @@
+-- 9 bottles of beer
+FER I = 99, 0, -1 PLZ
+ IF LE I IS 0 DEN
+  LOL "No more bottles of beer on the wall."
+  GET OUT
+ OR ELSE...
+  LOL I.." bottles of beer on the wall."
+  LOL I.." bottles of beer."
+  LOL "Take one down, pass it around,"
+ LOLK
+LOLK
